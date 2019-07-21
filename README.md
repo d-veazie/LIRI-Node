@@ -35,4 +35,11 @@ The do what it says command will search the Spotify API for 'I want it that way'
 
 Git hub repo link --> https://github.com/d-veazie/LIRI-Node
 
+Link to a video showing working commands --> https://drive.google.com/file/d/1CGjnqpiLFrRTT-XKMxt02Q5NKnSzOLCV/view?usp=sharing
+
+
+
+
+
+
 ------- Created by Dallen Veazie ---------
